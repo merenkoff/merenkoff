@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=merenkoff&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=iOS%20%E2%80%A2%20Backend%20%E2%80%A2%20AI-powered%20tools&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
 </p>
-
 <p align="center">
   <a href="https://github.com/merenkoff">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real+systems+for+real+people.;Math+background.+Production+mindset.;Shipping+over+endless+architecture+talks." alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/merenkoff/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
