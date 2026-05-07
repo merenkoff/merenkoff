@@ -94,12 +94,13 @@ I value **practical engineering** more than trendy stacks.
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=merenkoff&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merenkoff&theme=github_dark" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=merenkoff&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=merenkoff&theme=github_dark&utcOffset=3" />
 </p>
 
 ---
